@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+img{
+    border-radius: 50%;
+
+}
+body{
+    margin-left: 40%;
+}
